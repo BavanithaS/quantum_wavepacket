@@ -41,7 +41,7 @@ Atomic units are used throughout: ℏ = m = 1.
 ### 2. Space–Time Probability Density
 ![Spacetime heatmap](plots/02_spacetime.png)
 
-Position and momentum probability density as continuous heatmaps over time. The momentum distribution is obtained via FFT — the same transform I used in my [FFT vs QFT spectrum analyser](../qft-fft-analyser) project.
+Position and momentum probability density as continuous heatmaps over time. The momentum distribution is obtained via FFT — the same transform I used in my [FFT vs QFT spectrum analyser](https://github.com/BavanithaS/qft-vs-fft-spectrum-analyser) project.
 
 ### 3. Position ↔ Momentum Duality
 ![Dual space](plots/03_dual_space.png)
