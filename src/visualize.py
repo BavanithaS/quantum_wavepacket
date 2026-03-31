@@ -1,6 +1,6 @@
 """
 Visualization module for quantum wave packet simulations.
-Produces publication-quality plots and animations.
+
 """
 
 import numpy as np
@@ -14,7 +14,7 @@ from pathlib import Path
 from simulation import SimulationResult, run_free_particle, run_tunneling, run_double_barrier, run_harmonic
 
 # ─────────────────────────────────────────
-# Aesthetic configuration
+# Aesthetic configuration :)
 # ─────────────────────────────────────────
 
 DARK_BG    = "#050810"
